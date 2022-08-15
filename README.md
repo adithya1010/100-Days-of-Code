@@ -32,6 +32,7 @@ Also providing the link to my notes over on:  [Notion](https://adithya1010.notio
 **Output:**
 
 ![Damien Hirst replica using Turtle Graphics](https://pbs.twimg.com/media/FaIMl6WaAAIlbzg?format=jpg&name=medium)
+
 **Link for the original Painting done by Damien Hirst:** https://www.artsy.net/artwork/damien-hirst-ellipticine-32
 
 Anyone willing to buy mine as an NFT?...
