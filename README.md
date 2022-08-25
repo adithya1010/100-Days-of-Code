@@ -29,7 +29,9 @@ Also providing the link to my notes over on:  [Notion](https://adithya1010.notio
 ✅Random Walk<br />
 ✅Spirograph<br />
 ✅Hirst Painting Project:<br />
+
 **Output:**
+
 ![Damien Hirst replica using Turtle Graphics](https://pbs.twimg.com/media/FaIMl6WaAAIlbzg?format=jpg&name=medium)
 **Link for the original Painting done by Damien Hirst:** https://www.artsy.net/artwork/damien-hirst-ellipticine-32
 Anyone willing to buy mine as an NFT?...
@@ -42,6 +44,7 @@ Anyone willing to buy mine as an NFT?...
 ✅Etch a Sketch App<br />
 ✅Understanding the Turtle Coordinate System<br />
 ✅Turtle Race Game<br />
+
 **Output:**
 ![image](https://user-images.githubusercontent.com/57008821/186601564-c8a6286e-b816-4ec7-b5b2-0057dfea5393.png)
 
