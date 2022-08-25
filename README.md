@@ -34,11 +34,17 @@ Also providing the link to my notes over on:  [Notion](https://adithya1010.notio
 Anyone willing to buy mine as an NFT?...
 
 **Day-19-25th August,2022**
+
 ✅More Turtle Graphics
+
 ✅Event Listeners
+
 ✅Functions as inputs
+
 ✅Etch a Sketch App
+
 ✅Understanding the Turtle Coordinate System
+
 ✅Turtle Race Game
 **Output:**
 ![image](https://user-images.githubusercontent.com/57008821/186601564-c8a6286e-b816-4ec7-b5b2-0057dfea5393.png)
