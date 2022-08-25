@@ -3,7 +3,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 > # Knowing is not enough; we must apply. Willing is not enough; we must do.- Bruce Lee 
-
+>![Image of Bruce Lee](https://www.inc.com/ilan-mochari/bruce-lee-learning.html)
 ## 100 Days of Code🐍🔥 - Adithya S.T.
 This Github Repo contains the code for the 100 days of code challenge that I did by following the course by [London App Brewery🍺](https://www.londonappbrewery.com/) on [Udemy](https://www.udemy.com/course/100-days-of-code/)
 
@@ -18,7 +18,7 @@ I also regularly post my progress over on [Twitter](https://twitter.com/adithya_
 Also providing the link to my notes over on:  [Notion](https://adithya1010.notion.site/100-Days-of-Code-504b2b4887434c2c802e5c6a97002d62)
 
 
-## 100 Days of Code-Log
+## 100 Days of Code- Log
 
 **Day-18: 15th August, 2022**
 ✅Using Turtle
@@ -27,12 +27,18 @@ Also providing the link to my notes over on:  [Notion](https://adithya1010.notio
 ✅Draw Dashed Line
 ✅Random Walk
 ✅Spirograph
-✅Hirst Painting Project:
-
+✅Hirst Painting Projectt:
 **Output:**
-
 ![Damien Hirst replica using Turtle Graphics](https://pbs.twimg.com/media/FaIMl6WaAAIlbzg?format=jpg&name=medium)
-
 **Link for the original Painting done by Damien Hirst:** https://www.artsy.net/artwork/damien-hirst-ellipticine-32
-
 Anyone willing to buy mine as an NFT?...
+
+**Day-19-25th August,2022**
+✅More Turtle Graphics
+✅Event Listeners
+✅Functions as inputs
+✅Etch a Sketch App
+✅Understanding the Turtle Coordinate System
+✅Turtle Race Game
+**Output:**
+![Turtle Race Game Output](https://imgur.com/gallery/vcl3OYo)
