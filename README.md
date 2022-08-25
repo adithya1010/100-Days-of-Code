@@ -41,4 +41,5 @@ Anyone willing to buy mine as an NFT?...
 ✅Understanding the Turtle Coordinate System
 ✅Turtle Race Game
 **Output:**
-![Turtle Race Game Output](https://imgur.com/gallery/vcl3OYo)
+![image](https://user-images.githubusercontent.com/57008821/186601564-c8a6286e-b816-4ec7-b5b2-0057dfea5393.png)
+
