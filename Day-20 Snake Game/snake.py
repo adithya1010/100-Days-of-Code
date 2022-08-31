@@ -1,5 +1,4 @@
-from turtle import Turtle, Screen
-import time
+from turtle import Turtle
 
 # Declaring constants for the starting position and the move distance for the snake
 STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
@@ -19,14 +18,21 @@ class Snake:
         self.create_snake()
         self.head = self.segments[0]
 
-    # Creating the snake
+    # Creating the snake(for the first time) function:
     def create_snake(self):
         for position in STARTING_POSITIONS:
-            new_segment = Turtle("square")
-            new_segment.color("white")
-            new_segment.penup()
-            new_segment.goto(position)
-            self.segments.append(new_segment)
+            self.add_segments(position)
+
+    # Add new segments class:
+    def add_segments(self, position):
+        new_segment = Turtle("square")
+        new_segment.color("white")
+        new_segment.penup()
+        new_segment.goto(position)
+        self.segments.append(new_segment)
+
+    def extend(self):
+        self.add_segments(self.segments[-1].position())
 
     # Moving the snake
     def move(self):
