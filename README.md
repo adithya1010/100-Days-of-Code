@@ -49,3 +49,12 @@ Anyone willing to buy mine as an NFT?...
 
 ![image](https://user-images.githubusercontent.com/57008821/186601564-c8a6286e-b816-4ec7-b5b2-0057dfea5393.png)
 
+<p><strong>Day-20-31st August,2022</strong><br>
+<strong>Snake Game Part-I:</strong><br>
+✅Create Snake body<br>
+✅Move the Snake<br>
+✅Control the Snake using Keyboard Controls</p>
+
+**Output:**
+
+![image](https://user-images.githubusercontent.com/57008821/187630652-08dbfcdf-927e-4e08-b1ee-e605063ed29e.png)
