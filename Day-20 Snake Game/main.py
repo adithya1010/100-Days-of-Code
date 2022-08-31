@@ -5,8 +5,8 @@ import time
 screen = Screen()
 screen.setup(width=600, height=600)  # Setting screen height and width to 600 units
 screen.tracer(0)  # Setting the tracer animation off
-screen.bgcolor("black")
-screen.title("My Snake Game")
+screen.bgcolor("black")  # Setting bg color to black
+screen.title("My Snake Game")  # Setting title to Snake Game
 
 snake = Snake()
 
