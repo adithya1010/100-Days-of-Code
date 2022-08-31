@@ -18,21 +18,34 @@ I also regularly post my progress over on [Twitter](https://twitter.com/adithya_
 Also providing the link to my notes over on:  [Notion](https://adithya1010.notion.site/100-Days-of-Code-504b2b4887434c2c802e5c6a97002d62)
 
 
-## 100 Days of Code-Log
+## 100 Days of Code- Log
 
 **Day-18: 15th August, 2022**
-✅Using Turtle
-✅Change Shape, Color, Move, Direction
-✅Draw Square
-✅Draw Dashed Line
-✅Random Walk
-✅Spirograph
-✅Hirst Painting Project:
+
+✅Using Turtle<br />
+✅Change Shape, Color, Move, Direction<br />
+✅Draw Square<br />
+✅Draw Dashed Line<br />
+✅Random Walk<br />
+✅Spirograph<br />
+✅Hirst Painting Project:<br />
 
 **Output:**
 
 ![Damien Hirst replica using Turtle Graphics](https://pbs.twimg.com/media/FaIMl6WaAAIlbzg?format=jpg&name=medium)
-
 **Link for the original Painting done by Damien Hirst:** https://www.artsy.net/artwork/damien-hirst-ellipticine-32
-
 Anyone willing to buy mine as an NFT?...
+
+**Day-19-25th August,2022**
+
+✅More Turtle Graphics<br />
+✅Event Listeners<br />
+✅Functions as inputs<br />
+✅Etch a Sketch App<br />
+✅Understanding the Turtle Coordinate System<br />
+✅Turtle Race Game<br />
+
+**Output:**
+
+![image](https://user-images.githubusercontent.com/57008821/186601564-c8a6286e-b816-4ec7-b5b2-0057dfea5393.png)
+
