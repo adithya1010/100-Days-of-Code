@@ -68,6 +68,7 @@ Anyone willing to buy mine as an NFT?...
 ✅Creating  a scoreboard<br>
 ✅Detect collision with wall<br>
 ✅Detect collision with tail</p>
+<br>
 <p><strong>Output:</strong><br>
 <img src="https://im2.ezgif.com/tmp/ezgif-2-6fb3dac991.gif" alt="[video-to-gif output image]"></p>
 </div>
