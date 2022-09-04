@@ -70,6 +70,7 @@ Anyone willing to buy mine as an NFT?...
 ✅Detect collision with tail</p>
 <br>
 <p><strong>Output:</strong><br>
+<br>
 <img src="https://im2.ezgif.com/tmp/ezgif-2-6fb3dac991.gif" alt="[video-to-gif output image]"></p>
 </div>
 </body>
