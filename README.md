@@ -58,7 +58,7 @@ Anyone willing to buy mine as an NFT?...
 **Output:**
 
 ![image](https://user-images.githubusercontent.com/57008821/187630652-08dbfcdf-927e-4e08-b1ee-e605063ed29e.png)
-<p><strong>Day-21-4th August,2022</strong><br>
+<p><strong>Day-21-4th September,2022</strong><br>
 <strong>Snake Game Part-II 🐍:</strong></p>
 <p><strong>Things learnt📗:</strong><br>
 ✅Inheritance<br>
