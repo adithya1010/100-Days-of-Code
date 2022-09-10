@@ -58,3 +58,19 @@ Anyone willing to buy mine as an NFT?...
 **Output:**
 
 ![image](https://user-images.githubusercontent.com/57008821/187630652-08dbfcdf-927e-4e08-b1ee-e605063ed29e.png)
+<p><strong>Day-21-4th September,2022</strong><br>
+<strong>Snake Game Part-II 🐍:</strong></p>
+<p><strong>Things learnt📗:</strong><br>
+✅Inheritance<br>
+✅Slicing lists and dictionaries</p>
+<p><strong>Done list⛏️:</strong><br>
+✅Detecting collision with food<br>
+✅Creating  a scoreboard<br>
+✅Detect collision with wall<br>
+✅Detect collision with tail</p>
+<br>
+<p><strong>Output:</strong><br>
+<br>
+<img src="https://im2.ezgif.com/tmp/ezgif-2-6fb3dac991.gif" alt="[video-to-gif output image]"></p>
+</div>
+</body>
