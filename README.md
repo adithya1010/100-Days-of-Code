@@ -71,6 +71,23 @@ Anyone willing to buy mine as an NFT?...
 <br>
 <p><strong>Output:</strong><br>
 <br>
-<img src="https://im2.ezgif.com/tmp/ezgif-2-6fb3dac991.gif" alt="[video-to-gif output image]"></p>
+![image](https://user-images.githubusercontent.com/57008821/189493249-030a33be-82b8-404a-8fc4-683228498279.png)<br>
+<strong>Day-22-10th August,2022</strong><br>
+<strong>Pong Game 🏓</strong><br>
+<strong>Done list ⛏️:</strong><br>
+✅Create the Screen<br>
+✅Create and move a paddle<br>
+✅Create another paddle<br>
+✅Create the ball and make it move<br>
+✅Detect the collision with wall and bounce<br>
+✅Detect collision with paddle<br>
+✅Detect when paddle misses<br>
+✅Keep score using scoreboard</p>
+<p><strong>Output:</strong><br>
+![image](https://user-images.githubusercontent.com/57008821/189493294-8d38e0f8-c898-4d56-b47a-1e71e65471d6.png)
+</p>
+</div>
+</body>
+</p>
 </div>
 </body>
