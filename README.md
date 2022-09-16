@@ -86,7 +86,22 @@ Anyone willing to buy mine as an NFT?...
 ✅Keep score using scoreboard</p>
 **Output:**
 
-![image](https://user-images.githubusercontent.com/57008821/189493294-8d38e0f8-c898-4d56-b47a-1e71e65471d6.png)
+![image](https://user-images.githubusercontent.com/57008821/189493294-8d38e0f8-c898-4d56-b47a-1e71e65471d6.png)<br>
+<strong>Day-23-16th August,2022</strong><br>
+<strong>Turtle Crossing Game 🐢🛣️🚗:</strong><br>
+Difficulty level chosen: <strong>Hard🔥</strong><br>
+<strong>Plan📝:</strong></p>
+<ol>
+<li>A turtle moves forwards when you press the “Up” Key. It can only move forwards not back, left or right</li>
+<li>Cars are randomly generated along the y-axis and will move from the right edge of the screen to the left edge</li>
+<li>When the turtle hits the top edge of the screen, it moves back to the original position and the player levels up. On the next level,the car speed increases</li>
+<li>When the turtle collides with a car it’s game over and everything up<br>
+<strong>Done list ⛏️:</strong><br>
+✅Create a turtle player that starts at the bottom of the screen and listen for the “Up” key press to move the turtle north.<br>
+✅Create cars that are 20px high by 40px wide that are randomly generated along the y-axis and move to the left edge of the screen. No cars should be generated in the top and bottom 50px of the screen<br>
+✅Detect when the turtle player has reached the top edge of the screen (i.e., reached the FINISH_LINE_Y). When this happens, return the turtle to the starting position and increase the speed of the cars. Hint: think about creating an attribute and using the MOVE_INCREMENT to increase the car speed<br>
+<strong>Output:</strong></li>
+![image](https://user-images.githubusercontent.com/57008821/190575239-301401a0-98f8-404f-ab3a-ee0b436dffb3.png)
 
 </p>
 </div>
