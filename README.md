@@ -102,7 +102,7 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ✅Detect when the turtle player has reached the top edge of the screen (i.e., reached the FINISH_LINE_Y). When this happens, return the turtle to the starting position and increase the speed of the cars. Hint: think about creating an attribute and using the MOVE_INCREMENT to increase the car speed<br>
 <strong>Output:</strong></li>
   
-![image][(https://user-images.githubusercontent.com/57008821/190575239-301401a0-98f8-404f-ab3a-ee0b436dffb3.png](https://1drv.ms/u/s!Am-eVTSjDSr6gpg6Csrm5xg-MLhPDQ?e=BDiNiI))
+<img src="https://im5.ezgif.com/tmp/ezgif-5-f34c831432.gif](https://1drv.ms/u/s!Am-eVTSjDSr6gpg6Csrm5xg-MLhPDQ?e=BDiNiI" alt="[video-to-gif output image]"><br>
 
 </p>
 </div>
