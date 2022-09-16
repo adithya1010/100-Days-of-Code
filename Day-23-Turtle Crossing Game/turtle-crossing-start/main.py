@@ -34,10 +34,11 @@ while game_is_on:
     car_manager.create_car()
     car_manager.move_cars()
     for car in car_manager.all_cars:
-        if player.distance(car) < 25:
+        if player.distance(car) < 20:
             game_is_on = False
             scoreboard.game_over()
         if player.check_finish():
             car_manager.level_up()
             scoreboard.level_up()
+
 screen.exitonclick()
