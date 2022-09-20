@@ -102,18 +102,18 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ✅Detect when the turtle player has reached the top edge of the screen (i.e., reached the FINISH_LINE_Y). When this happens, return the turtle to the starting position and increase the speed of the cars. Hint: think about creating an attribute and using the MOVE_INCREMENT to increase the car speed<br>
 <strong>Output:</strong></li><br>
 <img src="https://i.imgur.com/1yBN9NJ.gif" alt="Day 23 Output"><br>
-<strong>Day-24-20th August,2022</strong><br>
-<strong>Things learnt📝:</strong><br>
+<strong>Day-24-20th August,2022</strong><br><br>
+<strong>Things learnt📝:</strong><br><br>
 ✅Creating and managing files<br>
 ✅Understanding Relative and Absolute File Paths<br>
 ✅Converting contents of text file to list using readline<br>
 ✅Using strip() to remove whitespaces etc<br>
-✅ Writing and reading text files<br>
+✅ Writing and reading text files<br><br>
 <strong>Done list ⛏️:</strong><br>
 ⛏️ Improved the snake game by tracking the high score and storing it in a separate file<br>
-⛏️ Created a program which automates sending birthday invites to the main characters of the show Avatar: The Last Airbender<br>
-<strong>Output:</strong><br>
-<img src="https://i.imgur.com/QEpYvHk.gif" alt="Day-24-Snake Game Output"><img src="https://i.imgur.com/VYxsOgh.png" alt="Day-24-Letter Program Output"></li>
+⛏️ Created a program which automates sending birthday invites to the main characters of the show Avatar: The Last Airbender<br><br>
+<strong>Output:</strong><br><br>
+<img src="https://i.imgur.com/QEpYvHk.gif" alt="Day-24-Snake Game Output"><br><img src="https://i.imgur.com/VYxsOgh.png" alt="Day-24-Letter Program Output"></li>
 </p>
 </div>
 </body>
