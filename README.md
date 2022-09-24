@@ -114,7 +114,17 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ⛏️ Improved the snake game by tracking the high score and storing it in a separate file<br>
 ⛏️ Created a program which automates sending birthday invites to the main characters of the show Avatar: The Last Airbender<br><br>
 <strong>Output:</strong><br><br>
-<img src="https://i.imgur.com/QEpYvHk.gif" alt="Day-24-Snake Game Output"><br><br><img src="https://i.imgur.com/VYxsOgh.png" alt="Day-24-Letter Program Output"></li>
+<img src="https://i.imgur.com/QEpYvHk.gif" alt="Day-24-Snake Game Output"><br><br><img src="https://i.imgur.com/VYxsOgh.png" alt="Day-24-Letter Program Output"></li><br>
+<strong>Day-25-24th August, 2022</strong><br>
+<strong>Things learnt📝:</strong><br>
+✅Working with CSV<br>
+✅Working with Pandas<br>
+<strong>Done list ⛏️:</strong><br>
+⛏️ Performed Data Analysis on New York’s Central Park Squirrel Census CSV data and calculated the total number of Grey, Red and Black Squirrels residing in the park<br>
+⛏️ Developed a quiz game where the user can guess all the states in the U.S. and when they guess it right it appears on the Map<br>
+<strong>Output:</strong><br>
+<img src="https://i.imgur.com/M516ec2.png" alt="Squirrel Analysis Output"><br>
+<img src="https://i.imgur.com/ppsIfiB.png" alt="U.S. States Quiz Game Output">
 </p>
 </div>
 </body>
