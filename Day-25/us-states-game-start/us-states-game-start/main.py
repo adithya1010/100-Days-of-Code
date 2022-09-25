@@ -10,7 +10,6 @@ image = "blank_states_img.gif"
 screen.addshape(image)
 turtle.shape(image)
 
-
 states_data = pandas.read_csv("50_states.csv")
 states_list = states_data.state.to_list()
 correct_counter = 0
@@ -21,15 +20,15 @@ while correct_counter != 50:
     answer_state = screen.textinput(title=f"{correct_counter}/50 Guess the State",
                                     prompt="What's another state's name?").title()
     # If user enters the word exit then the game exits out of the game and append not guessed state to a list
+    # Shorten the below if statement using list comprehension
     if answer_state == "Exit":
 
-        not_guessed_states = []
-        for state in states_list:
-            if state not in guessed_states:
-                not_guessed_states.append(state)
+        not_guessed_states = [state for state in states_list if state not in guessed_states]
         print(not_guessed_states)
-
+        new_data = pandas.DataFrame(not_guessed_states)
+        new_data.to_csv("states_to_learn.csv")
         break
+
     if answer_state in states_list:
         guessed_states.append(answer_state)
         write_turtle = Turtle()
@@ -52,6 +51,3 @@ while correct_counter != 50:
 # Converting the not_guessed_states list to csv
 df = pandas.DataFrame(not_guessed_states)
 df.to_csv("states_to_learn.csv")
-
-
-
