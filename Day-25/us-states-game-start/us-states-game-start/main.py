@@ -14,11 +14,24 @@ turtle.shape(image)
 states_data = pandas.read_csv("50_states.csv")
 states_list = states_data.state.to_list()
 correct_counter = 0
+guessed_states = []
+
 while correct_counter != 50:
     # Getting the guess of the user in a variable and capitalizing every first letter of each word
     answer_state = screen.textinput(title=f"{correct_counter}/50 Guess the State",
                                     prompt="What's another state's name?").title()
+    # If user enters the word exit then the game exits out of the game and append not guessed state to a list
+    if answer_state == "Exit":
+
+        not_guessed_states = []
+        for state in states_list:
+            if state not in guessed_states:
+                not_guessed_states.append(state)
+        print(not_guessed_states)
+
+        break
     if answer_state in states_list:
+        guessed_states.append(answer_state)
         write_turtle = Turtle()
         write_turtle.hideturtle()
         write_turtle.penup()
@@ -33,4 +46,12 @@ while correct_counter != 50:
         # Incrementing the counter for every correct answer and printing it in the title of the input prompt
         correct_counter += 1
 
-screen.mainloop()
+# Generate a CSV file that contains the list of all unguessed states and save it in a file called
+#  states_to_lean.csv
+
+# Converting the not_guessed_states list to csv
+df = pandas.DataFrame(not_guessed_states)
+df.to_csv("states_to_learn.csv")
+
+
+
