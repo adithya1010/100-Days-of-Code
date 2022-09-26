@@ -126,14 +126,14 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <img src="https://i.imgur.com/M516ec2.png" alt="Squirrel Analysis Output"><br>
 <img src="https://i.imgur.com/ppsIfiB.png" alt="U.S. States Quiz Game Output">
 </p>
-<strong>Day-26-24th August, 2022</strong><br>
+<strong>Day-26-26th August, 2022</strong><br><br>
 <strong>Things learnt📝:</strong>
 <p>✅List and Dictionary Comprehension<br>
 ✅Iterate over items in a DataFrame using iterrows()</p>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️ Practiced exercises for List and Dictionary Comprehension<br>
 ⛏️ Developed a command-line app which returns the NATO Phonetic Alphabet code for the given word</p>
-<p><strong>Output:</strong><br>
+<p><strong>Output:</strong><br><br>
 <img src="https://i.imgur.com/T0hJ8Qg.png" alt="Day-26-Output"></p>
 </div>
 </body>
