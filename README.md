@@ -146,6 +146,15 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ⛏️Developed a miles to km converter using Tkinter</p>
 <p><strong>Output:</strong></p>
 <p><img src="https://i.imgur.com/VkK1FS6.png" alt="Miles to Km Converter"></p>
+<strong>Day-28-3rd Oct, 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Using PhotoImage to get and store images using Tkinter<br>
+✅GUI using Tkinter<br>
+✅Dynamic Timing</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️ Pomodoro Timer that helps you with your productivity👨‍💻🍅✅</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/YWvv5W4.png" alt="Pomodoro Timer"></p>
 </div>
 </body>
 </p>
