@@ -135,6 +135,17 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ⛏️ Developed a command-line app which returns the NATO Phonetic Alphabet code for the given word</p>
 <p><strong>Output:</strong><br><br>
 <img src="https://i.imgur.com/T0hJ8Qg.png" alt="Day-26-Output"></p>
+<p><strong>Day-27-1st Oct, 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅GUI with Tkinter<br>
+✅Function arguments- *args and **kwargs<br>
+✅Tkinter Widgets<br>
+✅Tkinter Layout Managers</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Practiced working with *args and **kwargs, Tkinter Widgets and Tkinter Layout Managers<br>
+⛏️Developed a miles to km converter using Tkinter</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/VkK1FS6.png" alt="Miles to Km Converter"></p>
 </div>
 </body>
 </p>
