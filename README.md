@@ -155,6 +155,13 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p>⛏️ Pomodoro Timer that helps you with your productivity👨‍💻🍅✅</p>
 <p><strong>Output:</strong></p>
 <p><img src="https://i.imgur.com/YWvv5W4.png" alt="Pomodoro Timer"></p>
+<p><strong>Day-29-6th Oct, 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Learnt more GUI elements in Tkinter</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️ Enhanced the Day-5 Project-Password Generator using GUI with Tkinter</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/3vwXSHV.png" alt="Password Manager Output"></p>
 </div>
 </body>
 </p>
