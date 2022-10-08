@@ -6,7 +6,9 @@
 <p>⛏️Enhanced Password Manager to handle exceptions<br>
 ⛏️Added a search functionality to the program<br>
 ⛏️ Program now stores data in JSON format</p>
+<img src="https://i.imgur.com/HhvopNL.png" alt="Password Manager 3.0">
 </div>
+
 </body>
 
 </html>
