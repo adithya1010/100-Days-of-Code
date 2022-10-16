@@ -178,7 +178,7 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️Capstone Project: Flashy-Flash card App to learn French🥐</p>
 <p><strong>Output:</strong></p>
-<p><img src="https://i.imgur.com/v6wZuut.png" alt="Day-31-Output"></p>
+<p><img src="https://i.imgur.com/A4mTAkn.gif" alt="Day-31-Output"></p>
 </div>
 </body>
 </p>
