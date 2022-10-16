@@ -170,7 +170,15 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p>⛏️Enhanced Password Manager to handle exceptions<br>
 ⛏️Added a search functionality to the program<br>
 ⛏️ Program now stores data in JSON format</p>
-<img src="https://i.imgur.com/HhvopNL.png" alt="Password Manager 3.0">
+<img src="https://i.imgur.com/HhvopNL.png" alt="Password Manager 3.0"><br>
+<p><strong>Day-31-16th Oct, 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Exception Handing<br>
+✅Working with Canvas elements in Tkinter</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Capstone Project: Flashy-Flash card App to learn French🥐</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/v6wZuut.png" alt="Day-31-Output"></p>
 </div>
 </body>
 </p>
