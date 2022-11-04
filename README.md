@@ -191,6 +191,11 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p><img src="https://i.imgur.com/dFjwGYd.png" alt="Automated  Motivational Quote Sender Output"></p>
 <p><img src="https://i.imgur.com/CslCBIB.png" alt="Automated Birthday Wisher Output"></p>
 </div>
+<p><strong>Day-33-3rd Nov 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅API requests and how to process them</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Built an app which sends an email to look up if the ISS is above my current location using ISS’ API and also an API that tracks sunrise and sunsets</p>
 </body>
 </p>
 </div>
