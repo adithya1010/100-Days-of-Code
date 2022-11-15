@@ -198,5 +198,13 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p>⛏️Built an app which sends an email to look up if the ISS is above my current location using ISS’ API and also an API that tracks sunrise and sunsets</p>
 </body>
 </p>
+<p><strong>Day-34-7th Nov 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Tkinter GUI elements<br>
+✅Working with API calls</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Updated Quizzler App built on Day-17 with GUI and API calls</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/nSjspxJ.gif" alt="enter image description here"></p>
 </div>
 </body>
