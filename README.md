@@ -206,5 +206,12 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p>⛏️Updated Quizzler App built on Day-17 with GUI and API calls</p>
 <p><strong>Output:</strong></p>
 <p><img src="https://i.imgur.com/nSjspxJ.gif" alt="enter image description here"></p>
+<p><strong>Day-35-15th Nov 2022</strong></p><br>
+<p><strong>Things learnt📝:</strong></p><br>
+<p>✅API Environment Variables<br>
+✅Environment Variables and hiding API keys</p>
+<p><strong>Done list ⛏️:</strong></p><br>
+<p>⛏️Created an app using OpenWeatherAPI to send rain alerts via email</p>
+
 </div>
 </body>
