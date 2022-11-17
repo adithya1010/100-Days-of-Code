@@ -212,6 +212,11 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ✅Environment Variables and hiding API keys</p>
 <p><strong>Done list ⛏️:</strong></p><br>
 <p>⛏️Created an app using OpenWeatherAPI to send rain alerts via email</p>
-
+<p><strong>Day-36-16th Nov 2022</strong></p><br>
+<p><strong>Things learnt📝:</strong></p><br>
+<p>✅Using List Comprehension to get required values from API Requests<br>
+✅Using Twilio to send messages</p><br>
+<p><strong>Done list ⛏️:</strong></p><br>
+<p>⛏️Created an App using Alpha Vantage’s API, News API, and Twilio API to send Stock Price Alerts using SMS messages📈</p>
 </div>
 </body>
