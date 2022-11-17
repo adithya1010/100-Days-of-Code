@@ -40,7 +40,6 @@ day_before_yesterday_data = data_list[1]
 day_before_yesterday_closing_price = day_before_yesterday_data["4. close"]
 print(day_before_yesterday_closing_price)
 
-
 difference = float(yesterday_closing_price) - float(day_before_yesterday_closing_price)
 print(difference)
 up_down = None
@@ -49,19 +48,15 @@ if difference > 0:
 else:
     up_down = "🔻"
 
-
-
 denom = (float(yesterday_closing_price) + float(day_before_yesterday_closing_price)) / 2
 
 percent_diff = round((difference / float(yesterday_closing_price)) * 100)
 print(percent_diff)
 
-
 if percent_diff > 1:
     print("Get news")
     ## STEP 2: https://newsapi.org/
     # Instead of printing ("Get News"), actually get the first 3 news pieces for the COMPANY_NAME.
-
 
     news_params = {
         "q": COMPANY_NAME,
@@ -71,14 +66,14 @@ if percent_diff > 1:
     news_response = requests.get(NEWS_ENDPOINT, params=news_params)
     news_articles = news_response.json()["articles"]
 
-
     first_three_articles = news_articles[:3]
     ## STEP 3: Use twilio.com/docs/sms/quickstart/python
     # to send a separate message with each article's title and description to your phone number.
 
-
-    formatted_articles = [f"{STOCK_NAME}: {up_down}{percent_diff}%\nHeadline: {article['title']}. \nBrief: {article['description']}" for article in
-                          first_three_articles]
+    formatted_articles = [
+        f"{STOCK_NAME}: {up_down}{percent_diff}%\nHeadline: {article['title']}. \nBrief: {article['description']}" for
+        article in
+        first_three_articles]
     print(formatted_articles)
 
     for article in formatted_articles:
