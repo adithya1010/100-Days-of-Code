@@ -218,7 +218,7 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ✅Using Twilio to send messages</p><br>
 <p><strong>Done list ⛏️:</strong></p><br>
 <p>⛏️Created an App using Alpha Vantage’s API, News API, and Twilio API to send Stock Price Alerts using SMS messages📈</p>
-<p><strong>Day-37-17th Nov 2022</strong></p>
+<p><strong>Day-37-17th Nov 2022:</strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅Advanced Authentication and POST/PUT/DELETE Requests<br>
 ✅Using Headers instead of API keys</p>
