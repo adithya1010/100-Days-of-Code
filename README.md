@@ -218,5 +218,14 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ✅Using Twilio to send messages</p><br>
 <p><strong>Done list ⛏️:</strong></p><br>
 <p>⛏️Created an App using Alpha Vantage’s API, News API, and Twilio API to send Stock Price Alerts using SMS messages📈</p>
+<p><strong>Day-37-17th Nov 2022:</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Advanced Authentication and POST/PUT/DELETE Requests<br>
+✅Using Headers instead of API keys</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Created an App using Pixela’s API that lets you track your Cycling habit in a Github style graph🚴</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/xpKtfj4.png" alt="Habit Tracker-Output-1"></p>
+<p><img src="https://i.imgur.com/nkUtGPm.png" alt="Habit Tracker-Output-2"></p>
 </div>
 </body>
