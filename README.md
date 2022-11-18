@@ -227,5 +227,13 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p><strong>Output:</strong></p>
 <p><img src="https://i.imgur.com/xpKtfj4.png" alt="Habit Tracker-Output-1"></p>
 <p><img src="https://i.imgur.com/nkUtGPm.png" alt="Habit Tracker-Output-2"></p>
+<p><strong>Day-38-18th Nov 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Working with Nutritionix API and Sheety API</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Created a Workout Tracking command line app which uses Natural Language Processing with Nutritionix API and updates Workout data in Google Sheets using Sheety API 🏋️</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/lNz1QEP.png" alt="Day-38-Workout Tracker-Output-1"></p>
+<p><img src="https://i.imgur.com/a55WkwQ.png" alt="Day-38-Workout Tracker-Output-2"></p>
 </div>
 </body>
