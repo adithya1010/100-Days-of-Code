@@ -17,7 +17,12 @@
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️Created personal website with basic HTML</p>
 <p><strong>Output:</strong><br>
-<img src="https://i.imgur.com/MhC1PNT.png" alt="Day-41-Personal Website"></p>
+<img src="https://i.imgur.com/MhC1PNT.png" alt="Day-41-Personal Website"><br>
+<strong>Day-42-22nd Nov 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Intermediate HTML</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Updated personal website with Intermediate HTML</p>
 </div>
 </body>
 
