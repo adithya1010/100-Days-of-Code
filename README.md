@@ -235,5 +235,29 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p><strong>Output:</strong></p>
 <p><img src="https://i.imgur.com/lNz1QEP.png" alt="Day-38-Workout Tracker-Output-1"></p>
 <p><img src="https://i.imgur.com/a55WkwQ.png" alt="Day-38-Workout Tracker-Output-2"></p>
+<p><strong>Day-41-21st Nov 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Basic HTML</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Created personal website with basic HTML</p>
+<p><strong>Output:</strong><br>
+<img src="https://i.imgur.com/MhC1PNT.png" alt="Day-41-Personal Website"><br>
+<strong>Day-42-22nd Nov 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Intermediate HTML</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Updated personal website with Intermediate HTML</p>
+<p><strong>Day-43-27th Nov 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Introduction to CSS<br>
+✅Inline CSS<br>
+✅Internal CSS<br>
+✅External CSS<br>
+✅CSS Syntax<br>
+✅ID Selectors</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Updated personal website with Basic CSS<br>
+⛏️Played around with different CSS elements</p>
+</div>
 </div>
 </body>

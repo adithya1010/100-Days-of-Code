@@ -23,6 +23,17 @@
 <p>✅Intermediate HTML</p>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️Updated personal website with Intermediate HTML</p>
+<p><strong>Day-43-27th Nov 2022</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Introduction to CSS<br>
+✅Inline CSS<br>
+✅Internal CSS<br>
+✅External CSS<br>
+✅CSS Syntax<br>
+✅ID Selectors</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Updated personal website with Basic CSS<br>
+⛏️Played around with different CSS elements</p>
 </div>
 </body>
 
