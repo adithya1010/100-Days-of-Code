@@ -9,7 +9,9 @@ h3 {
 h1 {
     color: #66BFBF;
 }
-
+img{
+    border-radius: 100%;
+}
 hr {
     border-style: none;
     border-top-style: dotted;
