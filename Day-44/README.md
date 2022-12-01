@@ -11,7 +11,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p><strong>Day-44-27th Nov 2022</strong></p>
+<p><strong>Day-44-1st Dec 2022</strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅ Intermediate CSS<br>
 ✅ Favicons<br>
