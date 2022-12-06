@@ -2,6 +2,9 @@ import os
 import requests
 from datetime import datetime
 from requests.auth import HTTPBasicAuth
+
+# Step-6-Creating and Accessing Environment Variables
+
 SHEET_ENDPOINT = os.environ['sheety_endpoint']
 PASSWORD = os.environ['PASSWORD']
 USERNAME = os.environ['USERNAME']
