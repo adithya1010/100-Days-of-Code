@@ -16,6 +16,8 @@
 <p>✅ Web Scraping using BeautifulSoup</p>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️ Generated a Top 100 Movies list from Empire’s website and created a text file of the list</p>
+<img src="https://imgur.com/k8E5ic8" alt="Day-45-Output-1"><br>
+
 </div>
 </body>
 
