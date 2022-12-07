@@ -16,7 +16,7 @@
 <p>✅ lxml parser</p>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️ Amazon Price Alert Bot-Created a bot that emails you when a product is less than a base price</p>
-<p><strong>Output:</strong><br>
+<p><strong>Output:</strong><br><br>
 <img src="https://i.imgur.com/bfkMEDu.png" alt="Day-47-Amazon Price Alert Bot Output"></p>
 </div>
 </body>
