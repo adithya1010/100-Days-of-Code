@@ -257,11 +257,7 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 ✅ID Selectors</p>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️Updated personal website with Basic CSS<br>
-⛏️Played around with different CSS elements</p>
-<body class="stackedit">
-  <div class="stackedit__html"><blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+⛏️Played around with different CSS elements</p><br>
 <p><strong>Day-47-7th Dec 2022</strong>:</p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅ lxml parser</p>
