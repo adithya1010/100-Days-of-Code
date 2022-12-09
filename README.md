@@ -274,10 +274,6 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 <p><strong>Day-48-9th Dec 2022:</strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅ Working with Selenium Driver<br>
