@@ -301,6 +301,7 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️Created a bot that left-swipes people on Tinder automatically🤖🗿</p>
 <p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/W8RCx7E.gif" alt="Tinder Chad Bot"></p>
 </div>
 </div>
 </div>
