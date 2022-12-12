@@ -291,7 +291,17 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️Created a bot that applies to Jobs on LinkedIn Automatically</p>
 <p><strong>Output:</strong></p>
-<p><img src="https://i.imgur.com/otoCRg0.png" alt="LinkedIn-Bot-Output-1"></p>
+<p><img src="https://i.imgur.com/otoCRg0.png" alt="LinkedIn-Bot-Output-1"></p><br>
+<p><strong>Day-50-11th Dec 2022-Tinder Chad Bot🤖🗿:</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅ Working with Selenium Driver<br>
+✅ Hiding API keys with .gitignore<br>
+✅ Interacting with elements on a Web page using Selenium<br>
+✅Working with Action Chains</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️Created a bot that left-swipes people on Tinder automatically🤖🗿</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/W8RCx7E.gif" alt="Tinder Chad Bot"></p>
 </div>
 </div>
 </div>
