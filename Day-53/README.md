@@ -11,7 +11,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p><strong>Day-53-14th Dec 2022-Capstone Project-Data Entry🤖📸:</strong></p>
+<p><strong>Day-53-14th Dec 2022-Capstone Project-Data Entry🤖:</strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅ Working with Selenium Driver<br>
 ✅ Hiding API keys with .gitignore<br>
