@@ -19,7 +19,7 @@
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️ Created a Higher or Lower Game using URLs with Flask</p>
 <p><strong>Demo:</strong><br>
-<img src="https://imgur.com/86H6uK9" alt="Day-55-HigherorLowerURLS"></p>
+<img src="https://imgur.com/86H6uK9.gif" alt="Day-55-HigherorLowerURLS"></p>
 </div>
 </body>
 
