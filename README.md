@@ -305,4 +305,13 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 </div>
 </div>
 </div>
+<p><strong>Day-55-18th Dec 2022-HTML &amp; URL Parsing in Flask and the Higher Lower Game:</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Working with Flask URL Paths and the Flask Debugger<br>
+✅Rendering HTML elements using Flask<br>
+✅Advanced Python Decorators</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️ Created a Higher or Lower Game using URLs with Flask</p>
+<p><strong>Demo:</strong><br>
+<a href="https://imgur.com/86H6uK9"><img src="https://i.imgur.com/86H6uK9.gif" title="source: imgur.com" /></a></div>
 </body>
