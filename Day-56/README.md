@@ -18,6 +18,8 @@
 ✅Name Card Website</p>
 <p><strong>Done list ⛏️:</strong></p>
 <p>⛏️ Created a Name Card Website using Templates and Flask</p>
+<p><strong>Demo:</strong></p>
+<p><img src="https://i.imgur.com/iGkwyPt.png" alt="Day-56-Adithya"></p>
 </div>
 </body>
 
