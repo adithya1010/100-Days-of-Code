@@ -314,4 +314,31 @@ Difficulty level chosen: <strong>Hard🔥</strong><br>
 <p>⛏️ Created a Higher or Lower Game using URLs with Flask</p>
 <p><strong>Demo:</strong><br>
 <a href="https://imgur.com/86H6uK9"><img src="https://i.imgur.com/86H6uK9.gif" title="source: imgur.com" /></a></div>
+<p><strong>Day-56-20th Dec 2022-Rendering HTML/Static files using Website Templates:</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Rendering Websites using HTML<br>
+✅Serving Static Files using Flask<br>
+✅Name Card Website</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️ Created a Name Card Website using Templates and Flask</p>
+<p><strong>Demo:</strong></p>
+<p><img src="https://i.imgur.com/iGkwyPt.png" alt="Day-56-Adithya"></p>
+<p><strong>Day-57-26th Dec 2022-Templating with Jinga in Flask Applications</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Using Jinga to render Python Code in Websites</p>
+<p><strong>Day-58-29th Dec 2022-Web Foundation BootStrap</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Using BootStrap<br>
+✅Web Design<br>
+✅Wireframing</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️ Created the Front-end part for a Tinder for Dogs Website🐶</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/Qm484ZY.png" alt="TinDog-Page-1"><br>
+<img src="https://i.imgur.com/1NMeW56.png" alt="TinDog-Page-2"><br>
+<img src="https://i.imgur.com/dlZyy67.png" alt="TinDog-Page-3"><br>
+<img src="https://i.imgur.com/fTT8so6.png" alt="TinDog-Page-4"><br>
+<img src="https://i.imgur.com/BA6zxut.png" alt="TinDog-Page-5"></p>
+</div>
+
 </body>
