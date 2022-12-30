@@ -11,7 +11,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p><strong>Day-58-30th Dec 2022-Blog Capstone Project-Part-2-Adding Styling</strong></p>
+<p><strong>Day-59-30th Dec 2022-Blog Capstone Project-Part-2-Adding Styling</strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅Using BootStrap</p>
 <p><strong>Done list ⛏️:</strong></p>
