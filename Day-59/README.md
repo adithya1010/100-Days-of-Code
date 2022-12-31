@@ -23,6 +23,11 @@
 <p><img src="https://i.imgur.com/sDZrTqX.png" alt="Blog-Page-4"></p>
 <p><img src="https://i.imgur.com/xXHG0xl.png" alt="Blog-Page-5"></p>
 </div>
+<p><strong>Day-60-31st Dec 2022-Make POST requests with Flask and HTML Forms</strong></p>
+<p><strong>Things learnt📝:</strong></p>
+<p>✅Making POST requests with Flask and HTML Forms</p>
+<p><strong>Done list ⛏️:</strong></p>
+<p>⛏️ Made the Contact Form to work by making it handle POST requests with Flask and HTML Forms</p>
 </body>
 
 </html>
