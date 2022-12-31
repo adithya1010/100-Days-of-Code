@@ -27,7 +27,9 @@
 <p><strong>Things learnt📝:</strong></p>
 <p>✅Making POST requests with Flask and HTML Forms</p>
 <p><strong>Done list ⛏️:</strong></p>
-<p>⛏️ Made the Contact Form to work by making it handle POST requests with Flask and HTML Forms</p>
+<p>⛏️ Made the Contact Form to work by making it handle POST requests with Flask and HTML Forms</p><br>
+<p><strong>Demo:</strong></p><br>
+<p><img src="https://i.imgur.com/h9wu1hM.gif" alt="Day-60-Demo"></p>
 </body>
 
 </html>
