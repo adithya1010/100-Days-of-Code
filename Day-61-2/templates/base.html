@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<!--Template Inheritance-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% extends "bootstrap/base.html" %}
+    <title>{% block title %}{% endblock %}</title>
+    <style>
+    {% block styling %}
+    body{
+        background: purple;
+    }
+    {% endblock %}
+    </style>
+</head>
+<body>
+    {% block content %}{% endblock %}
+</body>
+</html>
