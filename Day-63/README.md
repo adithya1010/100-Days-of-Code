@@ -11,7 +11,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p><strong>Day-63-6th Dec 2022-Coffee and Wifi Project</strong></p>
+<p><strong>Day-63-6th Dec 2022-Databases with SQLite and SQLAlchemy</strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅Learnt about CRUD operations on Databases<br>
 ✅Leant how to work with SQLite and SQLAlchemy</p>
