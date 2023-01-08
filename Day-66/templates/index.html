@@ -1,0 +1,27 @@
+
+<!--Importing bootstrap for styling the site-->
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+  {{ super() }}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+{% endblock %}
+
+{% block title %}Up⬆️ or Down⬇️?{% endblock %}
+
+{% block content %}
+  <div class="content" align="center">
+    <br>
+    <div class="tenor-gif-embed" data-postid="4865991" data-share-method="host" data-aspect-ratio="1.33333" data-width="30%"><a href="https://tenor.com/view/looney-tunes-bugs-bunny-daffy-duck-up-down-gif-4865991">Looney Tunes Bugs Bunny GIF</a>from <a href="https://tenor.com/search/looney+tunes-gifs">Looney Tunes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <h1>Up⬆️ or Down⬇️?</h1>
+    <h2> A website to check if other websites are Up or Down</h2>
+  <h1 class="heading">Enter Website URL</h1>
+<!--  The form is displayed here using Jinga-->
+  {{ wtf.quick_form(form, novalidate=True) }}
+     </div>
+{% endblock %}

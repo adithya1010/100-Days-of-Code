@@ -1,0 +1,34 @@
+
+<!--Importing bootstrap for styling the site-->
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+  {{ super() }}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+{% endblock %}
+
+{% block title %}❔ Status{% endblock %}
+
+{% block content %}
+  <div class="content" align="center">
+<!--    <h1>The code is {{ code }}</h1>-->
+      <!--  The status is displayed here using Jinga-->
+      {% if status == "Up⬆️": %}
+    <h2> The site is {{ status }}!</h2>
+      <div class="tenor-gif-embed" data-postid="16107418" data-share-method="host" data-aspect-ratio="1.33333" data-width="30%"><a href="https://tenor.com/view/stonks-meme-gif-16107418">Stonks Meme GIF</a>from <a href="https://tenor.com/search/stonks-gifs">Stonks GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <h3>Yaayy! Site is functioning well!</h3>
+      {% else %}
+      <h2> The site is {{ status }}!</h2>
+        <div class="tenor-gif-embed" data-postid="17056650" data-share-method="host" data-aspect-ratio="1.33333" data-width="30%"><a href="https://tenor.com/view/rage-red-stocks-crash-stocks-crashing-downwards-gif-17056650">Rage Red Stocks GIF</a>from <a href="https://tenor.com/search/rage-gifs">Rage GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+      <h3>Yikes! Try Again!</h3>
+      {% endif %}
+      <br>
+      <br>
+    <a href="{{ url_for('check') }}"> <button type="button">Check All Sites</button></a>
+  </div>
+{% endblock %}

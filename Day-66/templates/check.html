@@ -1,0 +1,45 @@
+<!--Importing bootstrap for styling the site-->
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+  {{ super() }}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+<style>
+    table, th, td{
+        border: 1px solid #666;
+    }
+    table th, table td{
+        padding: 10px; /* Apply cell padding */
+    }
+</style>
+{% endblock %}
+
+{% block title %}🌐  States of All entered{% endblock %}
+{% block content %}
+
+<div class="content" align="center">
+    <table border="1" cellspacing="10">
+      <tr>
+        <th>URL</th>
+        <th>Site Status</th>
+      </tr>
+      <tr>
+        <!--  The contents of the DB is displayed here as a table using Jinga-->
+        {% for website in websites %}
+        <td>{{ website.name }}</td>
+        <td>{{ website.status_code }}</td>
+      </tr>
+    {% endfor %}
+    </table>
+    <br>
+    <br>
+  <a href="{{ url_for('home') }}"> <button type="button">Go back to Home</button> </a>
+    <br>
+    <br>
+  </div>
+{% endblock %}
