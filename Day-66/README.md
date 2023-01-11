@@ -44,11 +44,8 @@ Here the User can enter the URL of the Site that they want to know the Status of
 <p>To Check the Current Status of all sites so far entered the User can click on Check All Sites where it shows the current status of the sites entered so far in a Table Format</p>
 <p><img src="https://i.imgur.com/ugzxWy3.png" alt="Status of all entered page"></p>
 <h2 id="📺video-explanation">📺Video Explanation</h2>
-<p><strong>Video-1:</strong></p>
-<video src="https://onedrive.live.com/embed?cid=FA2A0DA334559E6F&amp;resid=FA2A0DA334559E6F%2143466&amp;authkey=AGvBnXex0eaUBpk" width=180/>
-<br>
-<p><strong>Video-2:</strong></p>
-<iframe src="http://onedrive.live.com/embed?cid=FA2A0DA334559E6F&amp;resid=FA2A0DA334559E6F%2143466&amp;authkey=AGvBnXex0eaUBpk" width="320" height="180" scrolling="no" allowfullscreen=""></iframe>
+    <a href="https://1drv.ms/u/s!Am-eVTSjDSr6gtNMXF3xSZPZgpJu9w?e=Ybmfi0">Link to OneDrive Videos</a>
+
 <h2 id="🧑‍💻code-explanation">🧑‍💻Code Explanation</h2>
 <p><strong>Imports:</strong></p>
 <p><img src="https://i.imgur.com/g8KgwW1.png" alt="Import"></p>
