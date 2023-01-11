@@ -45,7 +45,7 @@ Here the User can enter the URL of the Site that they want to know the Status of
 <p><img src="https://i.imgur.com/ugzxWy3.png" alt="Status of all entered page"></p>
 <h2 id="📺video-explanation">📺Video Explanation</h2>
 <p><strong>Video-1:</strong></p>
-<iframe src="http://onedrive.live.com/embed?cid=FA2A0DA334559E6F&amp;resid=FA2A0DA334559E6F%2143467&amp;authkey=AN8jN-CEvALIz_8" width="320" height="180" scrolling="no" allowfullscreen=""></iframe>
+<video src="https://onedrive.live.com/embed?cid=FA2A0DA334559E6F&amp;resid=FA2A0DA334559E6F%2143466&amp;authkey=AGvBnXex0eaUBpk" width=180/>
 <br>
 <p><strong>Video-2:</strong></p>
 <iframe src="http://onedrive.live.com/embed?cid=FA2A0DA334559E6F&amp;resid=FA2A0DA334559E6F%2143466&amp;authkey=AGvBnXex0eaUBpk" width="320" height="180" scrolling="no" allowfullscreen=""></iframe>
