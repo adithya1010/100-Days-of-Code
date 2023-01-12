@@ -11,7 +11,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p><strong>Day-66-11th Dec 2022-Up⬆️ or Down⬇️?</strong></p>
+<p><strong>Day-66-11th Dec 2023-Up⬆️ or Down⬇️?</strong></p>
 <h2 id="up⬆️-or-down⬇️--a-website-to-check-if-other-websites-are-up⬆️-or-down⬇️">Up⬆️ or Down⬇️?- A website to check if other websites are Up⬆️ or Down⬇️</h2>
 <p><img src="https://i.imgur.com/LDzUqWk.png" alt="Up or Down site"><br>
 A Mini-Project done by Adithya S.T. as part of Intern-Hiring Process by Kalvium</p>
