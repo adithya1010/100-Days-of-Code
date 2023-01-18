@@ -8,7 +8,9 @@
 **Things learnt📝:**
 
 ✅Learnt how to build a RESTful API
+
 ✅Learnt how to test APIs with Postman
+
 ✅Learnt how to publish APIs with Postman
 
 **Done list ⛏️:**
