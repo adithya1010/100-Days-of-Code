@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -11,7 +11,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p><strong>Day-66-11th Dec 2022-Up⬆️ or Down⬇️?</strong></p>
+<p><strong>Day-66-11th Dec 2023-Up⬆️ or Down⬇️?</strong></p>
 <h2 id="up⬆️-or-down⬇️--a-website-to-check-if-other-websites-are-up⬆️-or-down⬇️">Up⬆️ or Down⬇️?- A website to check if other websites are Up⬆️ or Down⬇️</h2>
 <p><img src="https://i.imgur.com/LDzUqWk.png" alt="Up or Down site"><br>
 A Mini-Project done by Adithya S.T. as part of Intern-Hiring Process by Kalvium</p>
@@ -44,11 +44,8 @@ Here the User can enter the URL of the Site that they want to know the Status of
 <p>To Check the Current Status of all sites so far entered the User can click on Check All Sites where it shows the current status of the sites entered so far in a Table Format</p>
 <p><img src="https://i.imgur.com/ugzxWy3.png" alt="Status of all entered page"></p>
 <h2 id="📺video-explanation">📺Video Explanation</h2>
-<p><strong>Video-1:</strong></p>
-<iframe src="https://onedrive.live.com/embed?cid=FA2A0DA334559E6F&amp;resid=FA2A0DA334559E6F%2143467&amp;authkey=AN8jN-CEvALIz_8" width="320" height="180" scrolling="no" allowfullscreen=""></iframe>
-<br>
-<p><strong>Video-2:</strong></p>
-<iframe src="https://onedrive.live.com/embed?cid=FA2A0DA334559E6F&amp;resid=FA2A0DA334559E6F%2143466&amp;authkey=AGvBnXex0eaUBpk" width="320" height="180" scrolling="no" allowfullscreen=""></iframe>
+    <a href="https://1drv.ms/u/s!Am-eVTSjDSr6gtNNBg-oefwWD5v_og?e=ahW4tm">Link to OneDrive Videos</a>
+
 <h2 id="🧑‍💻code-explanation">🧑‍💻Code Explanation</h2>
 <p><strong>Imports:</strong></p>
 <p><img src="https://i.imgur.com/g8KgwW1.png" alt="Import"></p>
