@@ -17,6 +17,8 @@
 ✅Grouping and Pivoting Data with Pandas</p>
 <p><strong>Done list ⛏️:</strong></p>
 <p>🔍Analyzed the relationship between College Majors vs Salary</p>
+<p><strong>Demo:</strong></p>
+<p><img src="https://i.imgur.com/TFKoWU5.png" alt="Day-71"></p>
 </div>
 </body>
 
