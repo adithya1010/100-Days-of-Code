@@ -19,6 +19,8 @@
 ✅Smoothing out data</p>
 <p><strong>Done list ⛏️:</strong></p>
 <p>🔍 Visualized the Most Popular Languages on Stack Overflow by the number of posts over time</p>
+<p><strong>Output:</strong></p>
+<p><img src="https://i.imgur.com/x1gKqDI.png" alt="Day-72"></p>
 </div>
 </body>
 
