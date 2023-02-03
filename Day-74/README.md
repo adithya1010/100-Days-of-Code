@@ -11,7 +11,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p>**Day-74-3rd Feb 2023-Google Trends Data:  Resampling and Visualizing Time Series: **</p>
+<p><strong>Day-74-3rd Feb 2023-Google Trends Data:  Resampling and Visualizing Time Series:</strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅How to use <code>.describe()</code> to quickly see some descriptive statistics at a glance<br>
 ✅How to use <code>.resample()</code> to make a time-series data comparable to another by changing the periodicity.<br>
