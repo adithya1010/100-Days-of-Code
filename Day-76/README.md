@@ -11,7 +11,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p>**Day-76-13th Feb 2023-Computation with NumPy and N-dimensional arrays: **</p>
+    <p><strong>Day-76-13th Feb 2023-Computation with NumPy and N-dimensional arrays: </strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅ Create arrays manually with <code>np.array()</code><br>
 ✅Generate arrays using <code>.arange()</code>, <code>.random()</code>, and <code>.linspace()</code><br>
