@@ -12,7 +12,7 @@
   <div class="stackedit__html"><blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
-<p>**Day-77-18th Feb 2023-Linear Regression and Data Visualization with Seaborn: **</p>
+<p><strong>Day-77-18th Feb 2023-Linear Regression and Data Visualization with Seaborn: </strong></p>
 <p><strong>Things learnt📝:</strong></p>
 <p>✅Use nested loops to remove unwanted characters from multiple columns<br>
 ✅Filter Pandas DataFrames based on multiple conditions using both <code>.loc[]</code> and <code>.query()</code><br>
